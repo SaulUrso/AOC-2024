@@ -172,4 +172,5 @@ cython_debug/
 
 #specific directories
 
-day1/Inputs/*
+*/Inputs/*
+*/inputs/*
